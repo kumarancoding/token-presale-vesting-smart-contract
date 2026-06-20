@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
-import "./LaunchToken.Sol";
+import "./LaunchToken.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
 contract TokenPresale is Ownable {
